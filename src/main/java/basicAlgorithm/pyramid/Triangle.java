@@ -1,4 +1,4 @@
-package pyramid;
+package basicAlgorithm.pyramid;
 
 public class Triangle {
 
