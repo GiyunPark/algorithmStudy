@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a792ab85-58c6-43dd-8d8a-a1f0be2cdf66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/ReverseArray/ReverserArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/PrimeNumber/PrimeNumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/PrimeNumber/PrimeNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/PrimeNumber/PrimeNumber3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/PrimeNumber/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pyramid/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/pyramid/Pyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pyramid/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/pyramid/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pyramid/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicAlgorithm/pyramid/Triangle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +61,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverserArray">
-    <configuration name="Median3B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.median.median3B.Median3B" />
+  <component name="RunManager" selected="Application.PrimeNumber3">
+    <configuration name="CardConvRev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.CardConvRev.CardConvRev" />
       <module name="algorithmStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicAlgorithm.median.median3B.*" />
+          <option name="PATTERN" value="basicAlgorithm.CardConvRev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.pyramid.Pyramid" />
+    <configuration name="PrimeNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.PrimeNumber.PrimeNumber1" />
       <module name="algorithmStudy.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicAlgorithm.pyramid.*" />
+          <option name="PATTERN" value="basicAlgorithm.PrimeNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.PrimeNumber.PrimeNumber2" />
+      <module name="algorithmStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicAlgorithm.PrimeNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.PrimeNumber.PrimeNumber3" />
+      <module name="algorithmStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicAlgorithm.PrimeNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,39 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.Tistory" />
-      <module name="algorithmStudy.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicAlgorithm.pyramid.Triangle" />
-      <module name="algorithmStudy.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicAlgorithm.pyramid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber3" />
+        <item itemvalue="Application.PrimeNumber2" />
+        <item itemvalue="Application.PrimeNumber1" />
+        <item itemvalue="Application.CardConvRev" />
         <item itemvalue="Application.ReverserArray" />
-        <item itemvalue="Application.StarPyramid" />
-        <item itemvalue="Application.Triangle01" />
-        <item itemvalue="Application.Tistory" />
-        <item itemvalue="Application.Median3B" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +151,7 @@
       <workItem from="1566876035264" duration="5996000" />
       <workItem from="1566920591098" duration="1261000" />
       <workItem from="1566968452363" duration="55000" />
-      <workItem from="1567918490303" duration="8920000" />
+      <workItem from="1567918490303" duration="16753000" />
     </task>
     <task id="LOCAL-00001" summary="Update gradle">
       <created>1566878313943</created>
@@ -190,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567923596884</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Create method to reserve array">
+      <created>1567937404734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567937404734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +228,7 @@
     <MESSAGE value="Feat created method to get Min value in four number and readme" />
     <MESSAGE value="Create pyramid by for loop" />
     <MESSAGE value="Create method to get median value" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create method to get median value" />
+    <MESSAGE value="Create method to reserve array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create method to reserve array" />
   </component>
 </project>
