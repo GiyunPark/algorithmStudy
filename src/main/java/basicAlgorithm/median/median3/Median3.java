@@ -5,8 +5,11 @@ import java.util.Scanner;
 public class Median3 {
 
     public static void main(String[] args){
+        long startTime=System.nanoTime();
         int median=Median3.med3(5,3,1);
+        long estimatedTime=System.nanoTime()-startTime;
         System.out.println(median);
+        System.out.println(estimatedTime);
     }
     static int med3(int a, int b, int c){
         if(a>=b)
